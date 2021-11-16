@@ -4,13 +4,13 @@
     - installs requisite libraries/modules/packages - odc-stac with conda and pip
 -  0_simple_dask_test_console.ipynb
     - test using DASK console with simple equation
--  1_Surviving_the_disaggreation_and_overload_with_references.ipynb
+-  1_Surviving_the_disaggregation_and_overload_with_references.ipynb
     - start of a list of interesting references
 -  2_my_first_odc_stac_newton_hills_lake_lakota_drys_up.ipynb
     - lake lakota NDWI
 -  3_simplify_my_first_odc_stac_newton_hills_lake_lakota_drys_up-Copy1.ipynb
     - CoP presentation on Lake Lakota
--  4_sioux_falls_annimations_brought_to_you_by_open_data_cube.ipynb
+-  4_sioux_falls_animations_brought_to_you_by_open_data_cube.ipynb
     - creates a netcdf .nc of sioux falls landsat observations
 - 5_make_animated _gif_from_nc.ipynb
     - simple notebook on netcdf input - animations outputs
