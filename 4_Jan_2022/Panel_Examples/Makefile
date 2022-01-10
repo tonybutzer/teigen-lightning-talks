@@ -4,7 +4,7 @@ cat:
 
 
 serve:
-	(export BOKEH_ALLOW_WS_ORIGIN=10.12.68.5:8888 && panel serve --show --port 8888 1_geojson-viewer-panel.ipynb)
+	(export BOKEH_ALLOW_WS_ORIGIN=10.12.68.5:8889 && panel serve --show --port 8889 1_geojson-viewer-panel.ipynb)
 
 
 
